@@ -1,0 +1,926 @@
+country,ecommerce_website_name,percent
+Albania,Sony,4.9
+Albania,Staples,4.7
+Albania,ASDA,4.2
+Albania,cloudfare,4.2
+Albania,BestBuy,4.2
+Albania,Tesco,3.9
+Albania,Apple,3.7
+Albania,Waterstones,3.7
+Albania,The Brick.eu.uk,3.7
+Albania,Amazon,3.4
+Albania,Canada Computers.cn,3.4
+Albania,Viveks,3.4
+Albania,IndiaTech.in,3.4
+Albania,SourceForge,3.2
+Albania,Lotus,3.2
+Albania,pcworld,3.2
+Albania,Peterbuilt,2.9
+Albania,The Source,2.9
+Albania,DesDev,2.9
+Albania,Lasko,2.9
+Albania,Brainbridge,2.7
+Albania,Ebay,2.7
+Albania,netlog,2.5
+Albania,Wayfair,2.5
+Albania,Panasonic,2.2
+Albania,Reliance Digital,2.2
+Albania,Target,2.2
+Albania,eZone.eu.uk,2.0
+Albania,Hacker Typer.,2.0
+Albania,Walmart,1.7
+Albania,Microsoft,1.7
+Albania,Sainsbury's,1.2
+Albania,Argos,1.2
+Albania,Samsung,1.0
+Australia,Panasonic,6.3
+Australia,Sony,5.5
+Australia,Sainsbury's,4.7
+Australia,Peterbuilt,4.7
+Australia,eZone.eu.uk,3.9
+Australia,The Source,3.9
+Australia,Samsung,3.9
+Australia,Walmart,3.9
+Australia,Amazon,3.9
+Australia,Lasko,3.9
+Australia,cloudfare,3.9
+Australia,ASDA,3.9
+Australia,Canada Computers.cn,3.1
+Australia,Brainbridge,3.1
+Australia,Argos,3.1
+Australia,BestBuy,3.1
+Australia,Hacker Typer.,3.1
+Australia,Reliance Digital,2.4
+Australia,Ebay,2.4
+Australia,Microsoft,2.4
+Australia,Apple,2.4
+Australia,netlog,2.4
+Australia,DesDev,2.4
+Australia,IndiaTech.in,2.4
+Australia,Viveks,2.4
+Australia,Waterstones,2.4
+Australia,Wayfair,1.6
+Australia,Staples,1.6
+Australia,Target,1.6
+Australia,Lotus,1.6
+Australia,The Brick.eu.uk,1.6
+Australia,Tesco,0.8
+Australia,pcworld,0.8
+Australia,SourceForge,0.8
+Bahamas,The Brick.eu.uk,7.7
+Bahamas,Microsoft,6.2
+Bahamas,Lotus,6.2
+Bahamas,DesDev,6.2
+Bahamas,Panasonic,4.6
+Bahamas,pcworld,4.6
+Bahamas,Samsung,4.6
+Bahamas,Peterbuilt,4.6
+Bahamas,eZone.eu.uk,4.6
+Bahamas,Wayfair,4.6
+Bahamas,The Source,3.1
+Bahamas,SourceForge,3.1
+Bahamas,Walmart,3.1
+Bahamas,Target,3.1
+Bahamas,Staples,3.1
+Bahamas,cloudfare,3.1
+Bahamas,BestBuy,3.1
+Bahamas,Viveks,3.1
+Bahamas,Apple,3.1
+Bahamas,Sony,3.1
+Bahamas,Brainbridge,1.5
+Bahamas,Reliance Digital,1.5
+Bahamas,netlog,1.5
+Bahamas,Lasko,1.5
+Bahamas,Argos,1.5
+Bahamas,Waterstones,1.5
+Bahamas,Canada Computers.cn,1.5
+Bahamas,ASDA,1.5
+Bahamas,Amazon,1.5
+Bahamas,Ebay,1.5
+Bangladesh,Sony,6.5
+Bangladesh,Samsung,4.7
+Bangladesh,Target,4.5
+Bangladesh,Lotus,4.5
+Bangladesh,Ebay,4.3
+Bangladesh,Reliance Digital,4.0
+Bangladesh,ASDA,3.6
+Bangladesh,Tesco,3.6
+Bangladesh,The Source,3.4
+Bangladesh,Peterbuilt,3.4
+Bangladesh,Walmart,3.4
+Bangladesh,Argos,3.4
+Bangladesh,Brainbridge,3.4
+Bangladesh,Staples,3.4
+Bangladesh,Microsoft,3.4
+Bangladesh,Canada Computers.cn,3.1
+Bangladesh,pcworld,2.9
+Bangladesh,Wayfair,2.7
+Bangladesh,The Brick.eu.uk,2.7
+Bangladesh,netlog,2.5
+Bangladesh,Viveks,2.5
+Bangladesh,Panasonic,2.5
+Bangladesh,IndiaTech.in,2.2
+Bangladesh,Apple,2.2
+Bangladesh,BestBuy,2.2
+Bangladesh,DesDev,2.0
+Bangladesh,Lasko,2.0
+Bangladesh,eZone.eu.uk,2.0
+Bangladesh,Sainsbury's,1.8
+Bangladesh,Hacker Typer.,1.6
+Bangladesh,cloudfare,1.6
+Bangladesh,Waterstones,1.3
+Bangladesh,Amazon,1.3
+Bangladesh,SourceForge,1.3
+Brazil,Sony,5.9
+Brazil,Viveks,3.2
+Brazil,Argos,3.1
+Brazil,Reliance Digital,3.1
+Brazil,Staples,3.1
+Brazil,Tesco,3.1
+Brazil,Lasko,3.1
+Brazil,DesDev,3.0
+Brazil,Canada Computers.cn,3.0
+Brazil,Target,3.0
+Brazil,eZone.eu.uk,3.0
+Brazil,Wayfair,3.0
+Brazil,Lotus,3.0
+Brazil,Apple,3.0
+Brazil,Samsung,3.0
+Brazil,IndiaTech.in,2.9
+Brazil,Waterstones,2.9
+Brazil,The Brick.eu.uk,2.9
+Brazil,Brainbridge,2.9
+Brazil,Walmart,2.9
+Brazil,BestBuy,2.9
+Brazil,The Source,2.8
+Brazil,cloudfare,2.7
+Brazil,Hacker Typer.,2.7
+Brazil,Panasonic,2.7
+Brazil,SourceForge,2.7
+Brazil,Ebay,2.7
+Brazil,Sainsbury's,2.7
+Brazil,pcworld,2.7
+Brazil,Microsoft,2.6
+Brazil,Peterbuilt,2.6
+Brazil,ASDA,2.5
+Brazil,Amazon,2.5
+Brazil,netlog,2.4
+Cameroon,DesDev,6.5
+Cameroon,IndiaTech.in,6.5
+Cameroon,Amazon,5.6
+Cameroon,Sony,4.6
+Cameroon,SourceForge,4.6
+Cameroon,netlog,4.6
+Cameroon,Lasko,3.7
+Cameroon,Walmart,3.7
+Cameroon,cloudfare,3.7
+Cameroon,Lotus,3.7
+Cameroon,Peterbuilt,3.7
+Cameroon,Reliance Digital,3.7
+Cameroon,Apple,3.7
+Cameroon,The Brick.eu.uk,3.7
+Cameroon,eZone.eu.uk,2.8
+Cameroon,ASDA,2.8
+Cameroon,pcworld,2.8
+Cameroon,The Source,2.8
+Cameroon,Sainsbury's,2.8
+Cameroon,BestBuy,2.8
+Cameroon,Wayfair,1.9
+Cameroon,Samsung,1.9
+Cameroon,Staples,1.9
+Cameroon,Viveks,1.9
+Cameroon,Waterstones,1.9
+Cameroon,Canada Computers.cn,1.9
+Cameroon,Tesco,1.9
+Cameroon,Target,1.9
+Cameroon,Hacker Typer.,1.9
+Cameroon,Panasonic,0.9
+Cameroon,Ebay,0.9
+Cameroon,Microsoft,0.9
+Cameroon,Argos,0.9
+Cameroon,Brainbridge,0.9
+Canada,Sony,4.9
+Canada,cloudfare,4.4
+Canada,Microsoft,4.3
+Canada,SourceForge,3.8
+Canada,Argos,3.6
+Canada,IndiaTech.in,3.6
+Canada,ASDA,3.5
+Canada,Peterbuilt,3.3
+Canada,eZone.eu.uk,3.2
+Canada,Sainsbury's,3.2
+Canada,Samsung,3.1
+Canada,The Source,3.1
+Canada,Brainbridge,3.0
+Canada,Staples,3.0
+Canada,Waterstones,2.9
+Canada,Reliance Digital,2.9
+Canada,Lasko,2.9
+Canada,Lotus,2.9
+Canada,Walmart,2.9
+Canada,Panasonic,2.9
+Canada,Canada Computers.cn,2.7
+Canada,Tesco,2.6
+Canada,Amazon,2.6
+Canada,The Brick.eu.uk,2.5
+Canada,netlog,2.5
+Canada,pcworld,2.5
+Canada,Ebay,2.4
+Canada,Apple,2.4
+Canada,BestBuy,2.4
+Canada,Target,2.3
+Canada,Viveks,2.3
+Canada,Wayfair,2.2
+Canada,Hacker Typer.,2.0
+Canada,DesDev,1.6
+Chile,Microsoft,6.5
+Chile,Amazon,5.6
+Chile,Walmart,4.8
+Chile,Apple,4.8
+Chile,Ebay,4.8
+Chile,Peterbuilt,4.0
+Chile,pcworld,4.0
+Chile,eZone.eu.uk,4.0
+Chile,Viveks,4.0
+Chile,The Brick.eu.uk,3.2
+Chile,cloudfare,3.2
+Chile,Lotus,3.2
+Chile,Hacker Typer.,3.2
+Chile,Target,3.2
+Chile,Wayfair,3.2
+Chile,ASDA,3.2
+Chile,The Source,3.2
+Chile,Sony,3.2
+Chile,Staples,2.4
+Chile,SourceForge,2.4
+Chile,DesDev,2.4
+Chile,Samsung,2.4
+Chile,Sainsbury's,2.4
+Chile,Tesco,1.6
+Chile,BestBuy,1.6
+Chile,Argos,1.6
+Chile,Waterstones,1.6
+Chile,Brainbridge,1.6
+Chile,IndiaTech.in,1.6
+Chile,Canada Computers.cn,1.6
+Chile,netlog,1.6
+Chile,Panasonic,1.6
+Chile,Lasko,0.8
+Chile,Reliance Digital,0.8
+China,Sony,5.4
+China,Waterstones,3.1
+China,netlog,3.1
+China,Target,3.1
+China,Samsung,3.0
+China,The Source,3.0
+China,pcworld,3.0
+China,Peterbuilt,3.0
+China,SourceForge,2.9
+China,The Brick.eu.uk,2.9
+China,Hacker Typer.,2.9
+China,Viveks,2.9
+China,Tesco,2.9
+China,Lotus,2.9
+China,cloudfare,2.9
+China,Sainsbury's,2.9
+China,eZone.eu.uk,2.9
+China,BestBuy,2.9
+China,Walmart,2.9
+China,Wayfair,2.8
+China,Amazon,2.8
+China,Staples,2.8
+China,Argos,2.8
+China,Brainbridge,2.8
+China,Canada Computers.cn,2.8
+China,Reliance Digital,2.8
+China,ASDA,2.8
+China,Lasko,2.8
+China,Microsoft,2.8
+China,IndiaTech.in,2.8
+China,DesDev,2.8
+China,Apple,2.7
+China,Panasonic,2.6
+China,Ebay,2.6
+Colombia,Sony,4.9
+Colombia,Microsoft,3.6
+Colombia,BestBuy,3.5
+Colombia,Apple,3.4
+Colombia,Viveks,3.3
+Colombia,Wayfair,3.3
+Colombia,Argos,3.3
+Colombia,DesDev,3.2
+Colombia,cloudfare,3.2
+Colombia,netlog,3.2
+Colombia,Waterstones,3.2
+Colombia,IndiaTech.in,3.1
+Colombia,Target,3.1
+Colombia,Hacker Typer.,3.1
+Colombia,Reliance Digital,3.0
+Colombia,Ebay,3.0
+Colombia,Brainbridge,2.9
+Colombia,Peterbuilt,2.9
+Colombia,Canada Computers.cn,2.9
+Colombia,The Brick.eu.uk,2.8
+Colombia,Lotus,2.8
+Colombia,Samsung,2.7
+Colombia,Lasko,2.7
+Colombia,Staples,2.7
+Colombia,Panasonic,2.7
+Colombia,The Source,2.5
+Colombia,Tesco,2.5
+Colombia,eZone.eu.uk,2.5
+Colombia,pcworld,2.5
+Colombia,Amazon,2.5
+Colombia,Sainsbury's,2.4
+Colombia,Walmart,2.2
+Colombia,ASDA,2.1
+Colombia,SourceForge,2.0
+Ecuador,Sony,5.4
+Ecuador,netlog,5.1
+Ecuador,Ebay,5.1
+Ecuador,The Source,4.2
+Ecuador,Reliance Digital,3.8
+Ecuador,Walmart,3.8
+Ecuador,Peterbuilt,3.5
+Ecuador,Microsoft,3.5
+Ecuador,SourceForge,3.2
+Ecuador,IndiaTech.in,3.2
+Ecuador,Brainbridge,2.9
+Ecuador,Wayfair,2.9
+Ecuador,ASDA,2.9
+Ecuador,BestBuy,2.9
+Ecuador,cloudfare,2.9
+Ecuador,Waterstones,2.9
+Ecuador,Viveks,2.9
+Ecuador,DesDev,2.9
+Ecuador,Hacker Typer.,2.9
+Ecuador,Samsung,2.9
+Ecuador,Amazon,2.6
+Ecuador,Lotus,2.6
+Ecuador,Argos,2.6
+Ecuador,Sainsbury's,2.6
+Ecuador,pcworld,2.6
+Ecuador,Lasko,2.2
+Ecuador,eZone.eu.uk,2.2
+Ecuador,Panasonic,2.2
+Ecuador,The Brick.eu.uk,2.2
+Ecuador,Target,1.9
+Ecuador,Apple,1.9
+Ecuador,Staples,1.9
+Ecuador,Canada Computers.cn,1.6
+Ecuador,Tesco,1.3
+Egypt,Sony,6.8
+Egypt,netlog,4.5
+Egypt,Canada Computers.cn,4.5
+Egypt,Walmart,4.3
+Egypt,Waterstones,4.3
+Egypt,IndiaTech.in,4.1
+Egypt,Staples,3.8
+Egypt,Lotus,3.6
+Egypt,Hacker Typer.,3.6
+Egypt,Peterbuilt,3.4
+Egypt,Ebay,3.2
+Egypt,Brainbridge,3.0
+Egypt,Sainsbury's,2.8
+Egypt,Apple,2.8
+Egypt,cloudfare,2.8
+Egypt,DesDev,2.8
+Egypt,Samsung,2.8
+Egypt,SourceForge,2.6
+Egypt,Lasko,2.6
+Egypt,Panasonic,2.6
+Egypt,The Source,2.6
+Egypt,pcworld,2.6
+Egypt,Wayfair,2.3
+Egypt,BestBuy,2.3
+Egypt,The Brick.eu.uk,2.1
+Egypt,Amazon,2.1
+Egypt,ASDA,2.1
+Egypt,Target,2.1
+Egypt,Reliance Digital,1.9
+Egypt,Argos,1.9
+Egypt,Tesco,1.9
+Egypt,Microsoft,1.9
+Egypt,eZone.eu.uk,1.7
+Egypt,Viveks,1.7
+France,Sony,5.5
+France,Waterstones,3.6
+France,Brainbridge,3.3
+France,Hacker Typer.,3.3
+France,SourceForge,3.3
+France,Samsung,3.2
+France,pcworld,3.1
+France,Target,3.1
+France,ASDA,3.1
+France,Lasko,3.1
+France,Amazon,3.0
+France,Viveks,3.0
+France,Staples,2.9
+France,Lotus,2.9
+France,Walmart,2.9
+France,Tesco,2.8
+France,DesDev,2.8
+France,Microsoft,2.8
+France,Sainsbury's,2.8
+France,Panasonic,2.8
+France,Ebay,2.8
+France,BestBuy,2.8
+France,netlog,2.8
+France,Argos,2.8
+France,Apple,2.8
+France,eZone.eu.uk,2.7
+France,The Source,2.7
+France,IndiaTech.in,2.7
+France,Wayfair,2.6
+France,Reliance Digital,2.6
+France,The Brick.eu.uk,2.5
+France,cloudfare,2.4
+France,Peterbuilt,2.4
+France,Canada Computers.cn,2.3
+Germany,Amazon,4.9
+Germany,Wayfair,4.2
+Germany,Reliance Digital,4.0
+Germany,Argos,4.0
+Germany,Sony,3.6
+Germany,Microsoft,3.4
+Germany,Panasonic,3.4
+Germany,eZone.eu.uk,3.4
+Germany,Hacker Typer.,3.4
+Germany,IndiaTech.in,3.2
+Germany,DesDev,3.2
+Germany,Tesco,3.2
+Germany,netlog,3.2
+Germany,BestBuy,3.0
+Germany,Viveks,3.0
+Germany,Apple,3.0
+Germany,Canada Computers.cn,3.0
+Germany,The Brick.eu.uk,3.0
+Germany,ASDA,3.0
+Germany,Peterbuilt,2.8
+Germany,The Source,2.8
+Germany,Ebay,2.7
+Germany,Brainbridge,2.7
+Germany,pcworld,2.7
+Germany,Lasko,2.5
+Germany,Lotus,2.5
+Germany,Walmart,2.3
+Germany,SourceForge,2.3
+Germany,Waterstones,2.3
+Germany,cloudfare,2.3
+Germany,Sainsbury's,1.9
+Germany,Staples,1.7
+Germany,Samsung,1.7
+Germany,Target,1.7
+Greece,Sony,5.4
+Greece,DesDev,3.9
+Greece,Viveks,3.9
+Greece,Lotus,3.6
+Greece,IndiaTech.in,3.6
+Greece,Tesco,3.5
+Greece,Ebay,3.3
+Greece,netlog,3.3
+Greece,eZone.eu.uk,3.3
+Greece,SourceForge,3.3
+Greece,Staples,3.3
+Greece,Samsung,3.2
+Greece,Wayfair,3.1
+Greece,ASDA,3.0
+Greece,Reliance Digital,3.0
+Greece,Brainbridge,3.0
+Greece,Argos,2.9
+Greece,Waterstones,2.8
+Greece,cloudfare,2.8
+Greece,The Source,2.8
+Greece,Amazon,2.7
+Greece,Microsoft,2.6
+Greece,Lasko,2.6
+Greece,Panasonic,2.6
+Greece,Target,2.5
+Greece,Peterbuilt,2.5
+Greece,BestBuy,2.4
+Greece,Apple,2.4
+Greece,Sainsbury's,2.4
+Greece,pcworld,2.3
+Greece,The Brick.eu.uk,2.1
+Greece,Canada Computers.cn,2.1
+Greece,Hacker Typer.,2.0
+Greece,Walmart,1.8
+Indonesia,Sony,5.7
+Indonesia,Amazon,3.1
+Indonesia,DesDev,3.1
+Indonesia,Peterbuilt,3.1
+Indonesia,Tesco,3.0
+Indonesia,SourceForge,3.0
+Indonesia,Lotus,3.0
+Indonesia,Viveks,3.0
+Indonesia,cloudfare,3.0
+Indonesia,Walmart,2.9
+Indonesia,ASDA,2.9
+Indonesia,Samsung,2.9
+Indonesia,Staples,2.9
+Indonesia,Argos,2.9
+Indonesia,IndiaTech.in,2.9
+Indonesia,Apple,2.9
+Indonesia,Microsoft,2.9
+Indonesia,Panasonic,2.9
+Indonesia,Hacker Typer.,2.8
+Indonesia,pcworld,2.8
+Indonesia,Brainbridge,2.8
+Indonesia,The Source,2.8
+Indonesia,Sainsbury's,2.8
+Indonesia,The Brick.eu.uk,2.8
+Indonesia,Wayfair,2.8
+Indonesia,Waterstones,2.8
+Indonesia,Reliance Digital,2.8
+Indonesia,eZone.eu.uk,2.8
+Indonesia,Canada Computers.cn,2.8
+Indonesia,Ebay,2.7
+Indonesia,BestBuy,2.7
+Indonesia,netlog,2.7
+Indonesia,Target,2.7
+Indonesia,Lasko,2.6
+Italy,Sony,10.4
+Italy,Brainbridge,6.3
+Italy,Lotus,6.3
+Italy,BestBuy,6.3
+Italy,The Brick.eu.uk,6.3
+Italy,Peterbuilt,6.3
+Italy,Apple,4.2
+Italy,Panasonic,4.2
+Italy,cloudfare,4.2
+Italy,eZone.eu.uk,4.2
+Italy,Wayfair,4.2
+Italy,Target,4.2
+Italy,Microsoft,4.2
+Italy,Tesco,4.2
+Italy,Reliance Digital,4.2
+Italy,SourceForge,4.2
+Italy,Samsung,2.1
+Italy,Hacker Typer.,2.1
+Italy,Canada Computers.cn,2.1
+Italy,The Source,2.1
+Italy,Amazon,2.1
+Italy,Viveks,2.1
+Italy,pcworld,2.1
+Italy,Waterstones,2.1
+Jamaica,eZone.eu.uk,8.3
+Jamaica,Sony,6.7
+Jamaica,IndiaTech.in,6.7
+Jamaica,Panasonic,6.7
+Jamaica,Argos,6.7
+Jamaica,Staples,6.7
+Jamaica,SourceForge,6.7
+Jamaica,Brainbridge,5.0
+Jamaica,Wayfair,5.0
+Jamaica,DesDev,3.3
+Jamaica,Waterstones,3.3
+Jamaica,The Source,3.3
+Jamaica,netlog,3.3
+Jamaica,Tesco,3.3
+Jamaica,Canada Computers.cn,3.3
+Jamaica,Samsung,3.3
+Jamaica,Apple,3.3
+Jamaica,Target,3.3
+Jamaica,Ebay,1.7
+Jamaica,ASDA,1.7
+Jamaica,The Brick.eu.uk,1.7
+Jamaica,Lasko,1.7
+Jamaica,cloudfare,1.7
+Jamaica,Sainsbury's,1.7
+Jamaica,Reliance Digital,1.7
+Japan,Sony,6.5
+Japan,Peterbuilt,3.9
+Japan,Walmart,3.7
+Japan,pcworld,3.6
+Japan,ASDA,3.5
+Japan,eZone.eu.uk,3.4
+Japan,Lasko,3.3
+Japan,cloudfare,3.3
+Japan,Viveks,3.2
+Japan,The Source,3.0
+Japan,The Brick.eu.uk,3.0
+Japan,Argos,2.9
+Japan,netlog,2.9
+Japan,Sainsbury's,2.9
+Japan,Apple,2.8
+Japan,Panasonic,2.8
+Japan,Tesco,2.8
+Japan,Staples,2.8
+Japan,DesDev,2.8
+Japan,Wayfair,2.7
+Japan,SourceForge,2.7
+Japan,Amazon,2.7
+Japan,Microsoft,2.7
+Japan,BestBuy,2.6
+Japan,IndiaTech.in,2.6
+Japan,Reliance Digital,2.5
+Japan,Samsung,2.5
+Japan,Brainbridge,2.5
+Japan,Waterstones,2.4
+Japan,Target,2.4
+Japan,Hacker Typer.,2.3
+Japan,Lotus,2.3
+Japan,Canada Computers.cn,2.3
+Japan,Ebay,1.7
+Mali,Lotus,6.5
+Mali,Brainbridge,6.5
+Mali,Hacker Typer.,5.9
+Mali,Sony,5.3
+Mali,Viveks,4.7
+Mali,IndiaTech.in,4.7
+Mali,Lasko,4.1
+Mali,Target,4.1
+Mali,Argos,3.6
+Mali,Microsoft,3.6
+Mali,Peterbuilt,3.6
+Mali,Samsung,3.6
+Mali,Panasonic,3.6
+Mali,Tesco,3.0
+Mali,The Source,3.0
+Mali,Walmart,3.0
+Mali,Amazon,3.0
+Mali,The Brick.eu.uk,3.0
+Mali,netlog,3.0
+Mali,ASDA,3.0
+Mali,Sainsbury's,2.4
+Mali,BestBuy,2.4
+Mali,Waterstones,2.4
+Mali,Staples,1.8
+Mali,Apple,1.8
+Mali,DesDev,1.8
+Mali,Ebay,1.8
+Mali,Wayfair,1.2
+Mali,SourceForge,1.2
+Mali,Canada Computers.cn,1.2
+Mali,eZone.eu.uk,0.6
+Mali,Reliance Digital,0.6
+Mali,cloudfare,0.6
+Mexico,Sony,5.3
+Mexico,SourceForge,4.1
+Mexico,eZone.eu.uk,4.0
+Mexico,Microsoft,3.8
+Mexico,Hacker Typer.,3.6
+Mexico,Ebay,3.5
+Mexico,Argos,3.4
+Mexico,DesDev,3.4
+Mexico,Wayfair,3.4
+Mexico,Target,3.4
+Mexico,Amazon,3.3
+Mexico,Sainsbury's,3.1
+Mexico,Waterstones,3.0
+Mexico,Staples,3.0
+Mexico,pcworld,3.0
+Mexico,Peterbuilt,2.9
+Mexico,Brainbridge,2.9
+Mexico,The Source,2.8
+Mexico,BestBuy,2.8
+Mexico,The Brick.eu.uk,2.8
+Mexico,Apple,2.8
+Mexico,cloudfare,2.7
+Mexico,Lasko,2.6
+Mexico,Reliance Digital,2.6
+Mexico,Lotus,2.5
+Mexico,Samsung,2.4
+Mexico,Tesco,2.3
+Mexico,IndiaTech.in,2.3
+Mexico,Panasonic,2.3
+Mexico,ASDA,2.1
+Mexico,Canada Computers.cn,2.1
+Mexico,Viveks,2.0
+Mexico,netlog,1.8
+Mexico,Walmart,1.6
+Pakistan,Amazon,4.8
+Pakistan,DesDev,4.0
+Pakistan,Panasonic,4.0
+Pakistan,Reliance Digital,3.8
+Pakistan,Samsung,3.7
+Pakistan,SourceForge,3.7
+Pakistan,Hacker Typer.,3.5
+Pakistan,Lotus,3.5
+Pakistan,Sony,3.5
+Pakistan,Brainbridge,3.5
+Pakistan,cloudfare,3.5
+Pakistan,Peterbuilt,3.3
+Pakistan,The Source,3.3
+Pakistan,netlog,3.1
+Pakistan,Sainsbury's,2.9
+Pakistan,Waterstones,2.9
+Pakistan,ASDA,2.7
+Pakistan,The Brick.eu.uk,2.7
+Pakistan,Staples,2.7
+Pakistan,Target,2.7
+Pakistan,IndiaTech.in,2.6
+Pakistan,Canada Computers.cn,2.6
+Pakistan,Argos,2.6
+Pakistan,Ebay,2.6
+Pakistan,pcworld,2.6
+Pakistan,Viveks,2.6
+Pakistan,Lasko,2.4
+Pakistan,Tesco,2.4
+Pakistan,eZone.eu.uk,2.4
+Pakistan,Walmart,2.4
+Pakistan,Wayfair,2.2
+Pakistan,Microsoft,2.0
+Pakistan,Apple,2.0
+Pakistan,BestBuy,1.1
+Panama,Sony,7.7
+Panama,Ebay,5.0
+Panama,Viveks,4.4
+Panama,Staples,4.4
+Panama,The Brick.eu.uk,4.4
+Panama,eZone.eu.uk,3.9
+Panama,ASDA,3.9
+Panama,The Source,3.9
+Panama,Microsoft,3.9
+Panama,Sainsbury's,3.9
+Panama,Hacker Typer.,3.3
+Panama,Samsung,3.3
+Panama,Brainbridge,3.3
+Panama,SourceForge,3.3
+Panama,Waterstones,2.8
+Panama,Peterbuilt,2.8
+Panama,Canada Computers.cn,2.8
+Panama,pcworld,2.8
+Panama,Target,2.2
+Panama,Apple,2.2
+Panama,Lotus,2.2
+Panama,Panasonic,2.2
+Panama,Argos,2.2
+Panama,Walmart,2.2
+Panama,Amazon,2.2
+Panama,Wayfair,2.2
+Panama,cloudfare,2.2
+Panama,netlog,2.2
+Panama,Lasko,1.7
+Panama,IndiaTech.in,1.7
+Panama,Tesco,1.7
+Panama,DesDev,1.7
+Panama,BestBuy,1.1
+Panama,Reliance Digital,0.6
+Philippines,Sony,5.5
+Philippines,Microsoft,3.3
+Philippines,Reliance Digital,3.2
+Philippines,Tesco,3.1
+Philippines,Hacker Typer.,3.1
+Philippines,eZone.eu.uk,3.1
+Philippines,Amazon,3.1
+Philippines,pcworld,3.0
+Philippines,Panasonic,3.0
+Philippines,BestBuy,3.0
+Philippines,Target,3.0
+Philippines,Lasko,3.0
+Philippines,Samsung,3.0
+Philippines,The Brick.eu.uk,2.9
+Philippines,Viveks,2.9
+Philippines,Canada Computers.cn,2.9
+Philippines,ASDA,2.9
+Philippines,IndiaTech.in,2.9
+Philippines,Staples,2.9
+Philippines,Brainbridge,2.8
+Philippines,netlog,2.8
+Philippines,Argos,2.8
+Philippines,DesDev,2.8
+Philippines,Walmart,2.8
+Philippines,Waterstones,2.7
+Philippines,cloudfare,2.7
+Philippines,Apple,2.7
+Philippines,Peterbuilt,2.7
+Philippines,Ebay,2.6
+Philippines,SourceForge,2.6
+Philippines,Sainsbury's,2.6
+Philippines,Lotus,2.6
+Philippines,The Source,2.6
+Philippines,Wayfair,2.2
+Somalia,Walmart,7.7
+Somalia,Sony,6.8
+Somalia,Reliance Digital,5.1
+Somalia,BestBuy,4.3
+Somalia,Hacker Typer.,4.3
+Somalia,netlog,4.3
+Somalia,Peterbuilt,4.3
+Somalia,Microsoft,4.3
+Somalia,SourceForge,3.4
+Somalia,Panasonic,3.4
+Somalia,pcworld,3.4
+Somalia,cloudfare,3.4
+Somalia,Lasko,3.4
+Somalia,The Source,3.4
+Somalia,Wayfair,2.6
+Somalia,Argos,2.6
+Somalia,Amazon,2.6
+Somalia,Ebay,2.6
+Somalia,DesDev,2.6
+Somalia,eZone.eu.uk,2.6
+Somalia,Samsung,2.6
+Somalia,Tesco,2.6
+Somalia,Viveks,2.6
+Somalia,Apple,2.6
+Somalia,Sainsbury's,2.6
+Somalia,IndiaTech.in,1.7
+Somalia,ASDA,1.7
+Somalia,Staples,1.7
+Somalia,Canada Computers.cn,0.9
+Somalia,Waterstones,0.9
+Somalia,Target,0.9
+Somalia,Lotus,0.9
+Somalia,The Brick.eu.uk,0.9
+Somalia,Brainbridge,0.9
+South Korea,Sony,5.5
+South Korea,BestBuy,5.1
+South Korea,Canada Computers.cn,4.2
+South Korea,pcworld,4.0
+South Korea,IndiaTech.in,3.6
+South Korea,Ebay,3.6
+South Korea,Apple,3.6
+South Korea,Peterbuilt,3.4
+South Korea,Lotus,3.4
+South Korea,Brainbridge,3.4
+South Korea,The Brick.eu.uk,3.2
+South Korea,Waterstones,3.2
+South Korea,Hacker Typer.,3.0
+South Korea,Sainsbury's,3.0
+South Korea,Argos,3.0
+South Korea,Wayfair,2.8
+South Korea,Lasko,2.8
+South Korea,SourceForge,2.8
+South Korea,DesDev,2.6
+South Korea,cloudfare,2.6
+South Korea,Staples,2.6
+South Korea,Walmart,2.6
+South Korea,Reliance Digital,2.6
+South Korea,netlog,2.4
+South Korea,ASDA,2.4
+South Korea,Viveks,2.4
+South Korea,Panasonic,2.4
+South Korea,Microsoft,2.4
+South Korea,Tesco,2.4
+South Korea,Samsung,2.2
+South Korea,Amazon,2.2
+South Korea,The Source,2.0
+South Korea,eZone.eu.uk,1.8
+South Korea,Target,1.6
+Togo,Apple,10.0
+Togo,Sony,8.6
+Togo,Brainbridge,7.1
+Togo,Target,7.1
+Togo,pcworld,5.7
+Togo,Walmart,4.3
+Togo,IndiaTech.in,4.3
+Togo,Viveks,4.3
+Togo,Ebay,4.3
+Togo,Samsung,4.3
+Togo,netlog,2.9
+Togo,Sainsbury's,2.9
+Togo,cloudfare,2.9
+Togo,The Source,2.9
+Togo,Peterbuilt,2.9
+Togo,Panasonic,2.9
+Togo,DesDev,2.9
+Togo,eZone.eu.uk,1.4
+Togo,Lasko,1.4
+Togo,The Brick.eu.uk,1.4
+Togo,BestBuy,1.4
+Togo,SourceForge,1.4
+Togo,Waterstones,1.4
+Togo,Reliance Digital,1.4
+Togo,Staples,1.4
+Togo,Hacker Typer.,1.4
+Togo,Wayfair,1.4
+Togo,Lotus,1.4
+Togo,Microsoft,1.4
+Togo,Canada Computers.cn,1.4
+Togo,Argos,1.4
+United Kingdom,Sony,4.9
+United Kingdom,Target,4.6
+United Kingdom,DesDev,4.3
+United Kingdom,Samsung,4.1
+United Kingdom,Argos,3.8
+United Kingdom,Wayfair,3.8
+United Kingdom,cloudfare,3.6
+United Kingdom,Waterstones,3.6
+United Kingdom,Tesco,3.3
+United Kingdom,Reliance Digital,3.3
+United Kingdom,Ebay,3.3
+United Kingdom,Lasko,3.3
+United Kingdom,The Source,3.1
+United Kingdom,Brainbridge,3.1
+United Kingdom,SourceForge,2.8
+United Kingdom,Staples,2.8
+United Kingdom,Amazon,2.8
+United Kingdom,eZone.eu.uk,2.8
+United Kingdom,Walmart,2.6
+United Kingdom,ASDA,2.6
+United Kingdom,Viveks,2.6
+United Kingdom,netlog,2.6
+United Kingdom,Panasonic,2.6
+United Kingdom,Microsoft,2.3
+United Kingdom,Hacker Typer.,2.3
+United Kingdom,The Brick.eu.uk,2.3
+United Kingdom,IndiaTech.in,2.3
+United Kingdom,Canada Computers.cn,2.3
+United Kingdom,Lotus,2.3
+United Kingdom,Peterbuilt,2.3
+United Kingdom,Apple,2.0
+United Kingdom,Sainsbury's,2.0
+United Kingdom,pcworld,2.0
+United Kingdom,BestBuy,1.5

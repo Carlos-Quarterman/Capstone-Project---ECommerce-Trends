@@ -1,0 +1,324 @@
+ecommerce_website_name,country,percent
+ASDA,Indonesia,53.7
+ASDA,Brazil,18.6
+ASDA,China,17.1
+ASDA,Philippines,3.0
+ASDA,Japan,2.5
+ASDA,Pakistan,2.4
+ASDA,Canada,2.0
+ASDA,South Korea,0.8
+Amazon,Indonesia,59.2
+Amazon,Brazil,16.9
+Amazon,China,9.0
+Amazon,Philippines,5.5
+Amazon,Canada,3.5
+Amazon,Pakistan,3.3
+Amazon,Japan,1.9
+Amazon,Australia,0.5
+Amazon,South Korea,0.3
+Apple,Indonesia,47.3
+Apple,Brazil,24.3
+Apple,China,15.4
+Apple,South Korea,3.3
+Apple,Philippines,3.1
+Apple,Japan,2.6
+Apple,Bahamas,1.2
+Apple,Pakistan,0.9
+Apple,Cameroon,0.8
+Apple,Togo,0.6
+Apple,Canada,0.4
+Apple,Australia,0.1
+Argos,Indonesia,56.6
+Argos,Brazil,17.3
+Argos,China,10.4
+Argos,Philippines,8.0
+Argos,Canada,4.1
+Argos,Pakistan,2.6
+Argos,Cameroon,0.7
+Argos,Japan,0.3
+BestBuy,Indonesia,49.1
+BestBuy,Brazil,19.9
+BestBuy,China,18.8
+BestBuy,Philippines,8.1
+BestBuy,Canada,1.5
+BestBuy,South Korea,1.2
+BestBuy,Pakistan,0.8
+BestBuy,Cameroon,0.5
+BestBuy,Japan,0.1
+Brainbridge,Indonesia,50.1
+Brainbridge,China,17.3
+Brainbridge,Brazil,14.2
+Brainbridge,Philippines,4.8
+Brainbridge,Canada,3.7
+Brainbridge,Australia,2.2
+Brainbridge,Togo,2.1
+Brainbridge,Japan,2.0
+Brainbridge,Pakistan,1.6
+Brainbridge,South Korea,1.5
+Brainbridge,Cameroon,0.6
+Canada Computers.cn,Indonesia,55.1
+Canada Computers.cn,China,18.0
+Canada Computers.cn,Brazil,13.7
+Canada Computers.cn,Philippines,5.0
+Canada Computers.cn,Pakistan,2.7
+Canada Computers.cn,Canada,2.2
+Canada Computers.cn,Japan,2.1
+Canada Computers.cn,Australia,1.0
+Canada Computers.cn,Togo,0.1
+DesDev,Indonesia,57.1
+DesDev,China,18.1
+DesDev,Brazil,16.0
+DesDev,Philippines,3.4
+DesDev,Pakistan,1.9
+DesDev,Japan,0.9
+DesDev,Bahamas,0.8
+DesDev,Canada,0.5
+DesDev,Cameroon,0.4
+DesDev,Togo,0.4
+DesDev,South Korea,0.3
+DesDev,Australia,0.1
+Ebay,Indonesia,47.8
+Ebay,Brazil,23.1
+Ebay,China,17.2
+Ebay,Philippines,5.3
+Ebay,Pakistan,2.0
+Ebay,Canada,1.8
+Ebay,South Korea,1.5
+Ebay,Australia,1.1
+Hacker Typer.,Indonesia,42.2
+Hacker Typer.,China,22.7
+Hacker Typer.,Brazil,20.8
+Hacker Typer.,Pakistan,4.4
+Hacker Typer.,Philippines,4.1
+Hacker Typer.,Australia,1.6
+Hacker Typer.,Cameroon,1.4
+Hacker Typer.,South Korea,1.1
+Hacker Typer.,Japan,0.8
+Hacker Typer.,Canada,0.7
+IndiaTech.in,Indonesia,58.8
+IndiaTech.in,Brazil,14.9
+IndiaTech.in,China,13.4
+IndiaTech.in,Canada,4.9
+IndiaTech.in,Philippines,3.6
+IndiaTech.in,Cameroon,1.3
+IndiaTech.in,Pakistan,1.2
+IndiaTech.in,Japan,1.0
+IndiaTech.in,Australia,0.8
+IndiaTech.in,South Korea,0.2
+Lasko,Indonesia,47.3
+Lasko,Brazil,26.2
+Lasko,China,12.3
+Lasko,Canada,6.7
+Lasko,Philippines,3.6
+Lasko,Pakistan,2.0
+Lasko,Japan,1.4
+Lasko,Australia,0.4
+Lasko,Cameroon,0.1
+Lotus,Indonesia,60.2
+Lotus,Brazil,15.8
+Lotus,China,13.3
+Lotus,Canada,4.3
+Lotus,Philippines,2.3
+Lotus,Pakistan,1.5
+Lotus,Cameroon,1.1
+Lotus,South Korea,0.8
+Lotus,Japan,0.4
+Lotus,Australia,0.3
+Lotus,Bahamas,0.1
+Microsoft,Indonesia,47.0
+Microsoft,Brazil,19.7
+Microsoft,China,16.7
+Microsoft,Canada,5.6
+Microsoft,Philippines,4.9
+Microsoft,Japan,2.6
+Microsoft,Pakistan,2.6
+Microsoft,Togo,0.7
+Microsoft,Cameroon,0.1
+Microsoft,Australia,0.0
+Microsoft,Bahamas,0.0
+Panasonic,Indonesia,56.5
+Panasonic,Brazil,16.6
+Panasonic,China,15.4
+Panasonic,Philippines,4.9
+Panasonic,Pakistan,2.1
+Panasonic,Canada,2.0
+Panasonic,Togo,1.6
+Panasonic,Australia,0.5
+Panasonic,Cameroon,0.4
+Peterbuilt,Indonesia,51.1
+Peterbuilt,Brazil,18.6
+Peterbuilt,China,17.4
+Peterbuilt,Canada,4.7
+Peterbuilt,Pakistan,2.7
+Peterbuilt,Philippines,2.6
+Peterbuilt,Togo,1.2
+Peterbuilt,Australia,0.9
+Peterbuilt,Japan,0.5
+Peterbuilt,Bahamas,0.2
+Peterbuilt,South Korea,0.1
+Reliance Digital,Indonesia,52.2
+Reliance Digital,Brazil,19.7
+Reliance Digital,China,12.5
+Reliance Digital,Philippines,4.9
+Reliance Digital,Pakistan,3.0
+Reliance Digital,Japan,3.0
+Reliance Digital,Canada,3.0
+Reliance Digital,South Korea,1.5
+Reliance Digital,Australia,0.3
+Sainsbury's,Indonesia,55.8
+Sainsbury's,Brazil,17.6
+Sainsbury's,China,10.4
+Sainsbury's,Philippines,6.6
+Sainsbury's,Canada,4.5
+Sainsbury's,Pakistan,2.0
+Sainsbury's,Australia,1.6
+Sainsbury's,Cameroon,0.8
+Sainsbury's,South Korea,0.3
+Sainsbury's,Togo,0.2
+Samsung,Indonesia,57.9
+Samsung,Brazil,19.4
+Samsung,China,13.2
+Samsung,Philippines,4.3
+Samsung,Canada,2.9
+Samsung,Japan,1.7
+Samsung,Australia,0.6
+Samsung,Pakistan,0.1
+Samsung,Bahamas,0.1
+Sony,Indonesia,53.2
+Sony,Brazil,20.9
+Sony,China,11.0
+Sony,Philippines,5.3
+Sony,Japan,4.2
+Sony,Canada,2.9
+Sony,Pakistan,1.3
+Sony,South Korea,0.5
+Sony,Togo,0.3
+Sony,Cameroon,0.2
+Sony,Australia,0.1
+SourceForge,Indonesia,52.3
+SourceForge,Brazil,16.7
+SourceForge,China,14.4
+SourceForge,Canada,7.5
+SourceForge,Philippines,4.2
+SourceForge,Pakistan,1.8
+SourceForge,South Korea,1.2
+SourceForge,Japan,1.0
+SourceForge,Cameroon,0.8
+Staples,Indonesia,50.7
+Staples,Brazil,18.8
+Staples,China,15.5
+Staples,Canada,4.5
+Staples,Philippines,4.2
+Staples,Japan,3.0
+Staples,Pakistan,2.3
+Staples,Bahamas,0.9
+Staples,Australia,0.1
+Target,Indonesia,49.7
+Target,Brazil,20.6
+Target,China,18.1
+Target,Philippines,5.0
+Target,Pakistan,1.9
+Target,Canada,1.6
+Target,Japan,1.6
+Target,Togo,0.9
+Target,Australia,0.6
+Target,Cameroon,0.1
+Tesco,Indonesia,57.6
+Tesco,Brazil,17.0
+Tesco,China,12.6
+Tesco,Philippines,5.6
+Tesco,Canada,2.9
+Tesco,Japan,2.1
+Tesco,Cameroon,1.1
+Tesco,Pakistan,0.8
+Tesco,South Korea,0.3
+The Brick.eu.uk,Indonesia,56.4
+The Brick.eu.uk,China,15.9
+The Brick.eu.uk,Brazil,14.5
+The Brick.eu.uk,Philippines,6.4
+The Brick.eu.uk,Canada,3.1
+The Brick.eu.uk,Pakistan,1.6
+The Brick.eu.uk,South Korea,1.6
+The Brick.eu.uk,Bahamas,0.5
+The Source,Indonesia,57.8
+The Source,Brazil,19.4
+The Source,China,14.4
+The Source,Pakistan,2.6
+The Source,Japan,2.6
+The Source,Philippines,2.5
+The Source,Canada,0.7
+Viveks,Indonesia,47.6
+Viveks,Brazil,22.0
+Viveks,China,15.5
+Viveks,Philippines,4.3
+Viveks,Japan,3.1
+Viveks,South Korea,2.4
+Viveks,Canada,2.2
+Viveks,Pakistan,2.1
+Viveks,Cameroon,0.3
+Viveks,Bahamas,0.2
+Viveks,Australia,0.2
+Walmart,Indonesia,55.2
+Walmart,Brazil,18.7
+Walmart,China,11.4
+Walmart,Philippines,5.3
+Walmart,Pakistan,3.8
+Walmart,Canada,2.8
+Walmart,Bahamas,1.4
+Walmart,South Korea,1.0
+Walmart,Australia,0.2
+Walmart,Cameroon,0.1
+Waterstones,Indonesia,53.0
+Waterstones,Brazil,17.1
+Waterstones,China,15.0
+Waterstones,Philippines,6.3
+Waterstones,Pakistan,4.8
+Waterstones,Canada,1.4
+Waterstones,Cameroon,1.3
+Waterstones,South Korea,0.7
+Waterstones,Japan,0.3
+Wayfair,Indonesia,57.7
+Wayfair,Brazil,26.3
+Wayfair,China,10.8
+Wayfair,Canada,1.7
+Wayfair,Pakistan,1.0
+Wayfair,South Korea,0.8
+Wayfair,Bahamas,0.8
+Wayfair,Philippines,0.8
+cloudfare,Indonesia,42.7
+cloudfare,China,25.6
+cloudfare,Brazil,15.5
+cloudfare,Philippines,5.0
+cloudfare,Canada,4.8
+cloudfare,Pakistan,2.8
+cloudfare,Japan,1.6
+cloudfare,Australia,1.3
+cloudfare,Cameroon,0.7
+cloudfare,South Korea,0.0
+eZone.eu.uk,Indonesia,52.0
+eZone.eu.uk,Brazil,20.1
+eZone.eu.uk,China,13.1
+eZone.eu.uk,Philippines,6.6
+eZone.eu.uk,Pakistan,2.9
+eZone.eu.uk,Canada,2.4
+eZone.eu.uk,Japan,2.0
+eZone.eu.uk,Bahamas,0.8
+netlog,Indonesia,50.7
+netlog,Brazil,19.6
+netlog,China,14.8
+netlog,Philippines,6.3
+netlog,Canada,2.7
+netlog,Japan,2.3
+netlog,Australia,2.1
+netlog,Pakistan,0.8
+netlog,Cameroon,0.4
+netlog,Togo,0.2
+pcworld,Indonesia,62.4
+pcworld,Brazil,16.1
+pcworld,China,9.6
+pcworld,Canada,5.7
+pcworld,Philippines,3.0
+pcworld,Pakistan,1.1
+pcworld,Australia,1.0
+pcworld,South Korea,0.9
+pcworld,Togo,0.1

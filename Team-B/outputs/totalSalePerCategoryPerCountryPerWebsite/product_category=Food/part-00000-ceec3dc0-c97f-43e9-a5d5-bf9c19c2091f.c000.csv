@@ -1,0 +1,724 @@
+ecommerce_website_name,country,percent
+ASDA,China,50.7
+ASDA,Philippines,11.8
+ASDA,Japan,5.2
+ASDA,Indonesia,5.1
+ASDA,Brazil,4.8
+ASDA,France,4.6
+ASDA,Bangladesh,3.7
+ASDA,Germany,3.6
+ASDA,Colombia,2.5
+ASDA,South Korea,2.2
+ASDA,Pakistan,1.2
+ASDA,Mexico,1.0
+ASDA,Egypt,0.9
+ASDA,Albania,0.9
+ASDA,Canada,0.7
+ASDA,United Kingdom,0.6
+ASDA,Mali,0.3
+ASDA,Ecuador,0.1
+ASDA,Greece,0.1
+ASDA,Australia,0.0
+ASDA,Cameroon,0.0
+Amazon,China,41.1
+Amazon,Indonesia,15.0
+Amazon,Philippines,14.3
+Amazon,Brazil,6.5
+Amazon,Greece,5.0
+Amazon,France,4.2
+Amazon,Japan,3.4
+Amazon,Colombia,2.9
+Amazon,Mexico,2.3
+Amazon,Germany,1.4
+Amazon,Panama,1.2
+Amazon,Bangladesh,1.1
+Amazon,Egypt,0.5
+Amazon,Chile,0.4
+Amazon,Canada,0.3
+Amazon,Ecuador,0.2
+Amazon,United Kingdom,0.1
+Amazon,Mali,0.1
+Amazon,Australia,0.0
+Amazon,Pakistan,0.0
+Apple,China,44.8
+Apple,Indonesia,19.3
+Apple,Philippines,9.9
+Apple,France,3.8
+Apple,Brazil,3.7
+Apple,Greece,3.4
+Apple,Japan,3.0
+Apple,Colombia,2.3
+Apple,Egypt,1.6
+Apple,Germany,1.6
+Apple,Albania,1.5
+Apple,Mexico,1.1
+Apple,Australia,0.8
+Apple,Jamaica,0.8
+Apple,Togo,0.8
+Apple,Ecuador,0.6
+Apple,Panama,0.3
+Apple,United Kingdom,0.2
+Apple,Mali,0.2
+Apple,South Korea,0.1
+Apple,Chile,0.1
+Apple,Bangladesh,0.0
+Apple,Bahamas,0.0
+Apple,Canada,0.0
+Argos,China,40.3
+Argos,Indonesia,9.4
+Argos,France,8.9
+Argos,Philippines,7.2
+Argos,Greece,5.8
+Argos,Mexico,4.3
+Argos,Colombia,4.3
+Argos,Japan,3.9
+Argos,Brazil,3.2
+Argos,South Korea,2.6
+Argos,Albania,2.3
+Argos,Bangladesh,1.5
+Argos,Egypt,1.3
+Argos,Jamaica,1.3
+Argos,United Kingdom,1.2
+Argos,Canada,1.0
+Argos,Germany,0.7
+Argos,Australia,0.5
+Argos,Ecuador,0.4
+Argos,Somalia,0.0
+Argos,Pakistan,0.0
+Argos,Chile,0.0
+Argos,Panama,0.0
+BestBuy,China,40.7
+BestBuy,Philippines,17.4
+BestBuy,South Korea,8.2
+BestBuy,Indonesia,7.4
+BestBuy,France,5.8
+BestBuy,Brazil,4.7
+BestBuy,Colombia,3.7
+BestBuy,Egypt,3.3
+BestBuy,Mexico,1.8
+BestBuy,Bahamas,1.7
+BestBuy,Japan,1.3
+BestBuy,Ecuador,1.2
+BestBuy,Albania,1.0
+BestBuy,Greece,0.9
+BestBuy,Panama,0.4
+BestBuy,Canada,0.4
+BestBuy,Germany,0.1
+BestBuy,Bangladesh,0.1
+BestBuy,Mali,0.0
+BestBuy,Chile,0.0
+Brainbridge,China,48.7
+Brainbridge,Philippines,9.5
+Brainbridge,Brazil,8.8
+Brainbridge,France,7.7
+Brainbridge,Japan,5.9
+Brainbridge,Indonesia,4.7
+Brainbridge,Bangladesh,3.3
+Brainbridge,Mexico,2.3
+Brainbridge,Colombia,1.7
+Brainbridge,Greece,1.3
+Brainbridge,Ecuador,1.3
+Brainbridge,Egypt,1.3
+Brainbridge,Canada,1.0
+Brainbridge,Mali,0.7
+Brainbridge,Germany,0.7
+Brainbridge,Albania,0.4
+Brainbridge,South Korea,0.3
+Brainbridge,Panama,0.3
+Brainbridge,Chile,0.1
+Brainbridge,United Kingdom,0.0
+Brainbridge,Jamaica,0.0
+Brainbridge,Pakistan,0.0
+Canada Computers.cn,China,42.6
+Canada Computers.cn,Philippines,17.0
+Canada Computers.cn,Japan,6.9
+Canada Computers.cn,France,6.5
+Canada Computers.cn,Colombia,5.8
+Canada Computers.cn,Brazil,5.2
+Canada Computers.cn,South Korea,4.1
+Canada Computers.cn,Egypt,3.1
+Canada Computers.cn,Mexico,2.4
+Canada Computers.cn,Indonesia,1.7
+Canada Computers.cn,Greece,1.4
+Canada Computers.cn,Bangladesh,1.4
+Canada Computers.cn,Albania,0.7
+Canada Computers.cn,Canada,0.5
+Canada Computers.cn,Panama,0.3
+Canada Computers.cn,Germany,0.2
+Canada Computers.cn,Italy,0.1
+DesDev,China,36.5
+DesDev,Philippines,18.2
+DesDev,Brazil,8.6
+DesDev,France,7.4
+DesDev,Japan,5.7
+DesDev,Colombia,5.7
+DesDev,Indonesia,4.1
+DesDev,Greece,4.0
+DesDev,Albania,2.6
+DesDev,Bangladesh,2.3
+DesDev,Mexico,1.8
+DesDev,Egypt,1.1
+DesDev,United Kingdom,0.9
+DesDev,Germany,0.5
+DesDev,South Korea,0.3
+DesDev,Pakistan,0.3
+DesDev,Ecuador,0.1
+DesDev,Bahamas,0.0
+Ebay,China,30.5
+Ebay,France,15.1
+Ebay,Philippines,13.6
+Ebay,Greece,6.7
+Ebay,Indonesia,5.9
+Ebay,Ecuador,5.1
+Ebay,Bangladesh,4.2
+Ebay,Colombia,3.8
+Ebay,Albania,3.7
+Ebay,Brazil,3.4
+Ebay,Panama,2.1
+Ebay,Mexico,1.5
+Ebay,Egypt,1.2
+Ebay,Japan,1.1
+Ebay,South Korea,0.6
+Ebay,Chile,0.3
+Ebay,Canada,0.3
+Ebay,Togo,0.3
+Ebay,Australia,0.2
+Ebay,Germany,0.2
+Ebay,Somalia,0.0
+Ebay,Mali,0.0
+Hacker Typer.,China,46.8
+Hacker Typer.,Philippines,14.3
+Hacker Typer.,France,9.6
+Hacker Typer.,Colombia,8.0
+Hacker Typer.,Japan,5.7
+Hacker Typer.,Brazil,4.0
+Hacker Typer.,Indonesia,4.0
+Hacker Typer.,Mexico,3.3
+Hacker Typer.,Greece,0.8
+Hacker Typer.,Bangladesh,0.7
+Hacker Typer.,Egypt,0.7
+Hacker Typer.,Albania,0.7
+Hacker Typer.,Pakistan,0.5
+Hacker Typer.,Somalia,0.4
+Hacker Typer.,Germany,0.2
+Hacker Typer.,Panama,0.2
+Hacker Typer.,Ecuador,0.2
+Hacker Typer.,United Kingdom,0.1
+Hacker Typer.,Canada,0.0
+IndiaTech.in,China,46.9
+IndiaTech.in,France,9.7
+IndiaTech.in,Brazil,8.1
+IndiaTech.in,Philippines,8.1
+IndiaTech.in,Indonesia,4.7
+IndiaTech.in,Japan,4.3
+IndiaTech.in,Greece,3.9
+IndiaTech.in,United Kingdom,3.7
+IndiaTech.in,Egypt,3.4
+IndiaTech.in,Germany,1.5
+IndiaTech.in,Colombia,1.4
+IndiaTech.in,Mexico,1.3
+IndiaTech.in,Albania,0.8
+IndiaTech.in,Canada,0.7
+IndiaTech.in,Mali,0.5
+IndiaTech.in,Ecuador,0.4
+IndiaTech.in,South Korea,0.2
+IndiaTech.in,Bangladesh,0.2
+IndiaTech.in,Pakistan,0.0
+Lasko,China,48.0
+Lasko,France,12.4
+Lasko,Japan,9.7
+Lasko,Philippines,5.9
+Lasko,Greece,4.4
+Lasko,Brazil,4.1
+Lasko,Mexico,4.1
+Lasko,Indonesia,3.6
+Lasko,South Korea,2.1
+Lasko,Egypt,1.6
+Lasko,Canada,1.3
+Lasko,Colombia,0.9
+Lasko,United Kingdom,0.5
+Lasko,Albania,0.5
+Lasko,Germany,0.2
+Lasko,Pakistan,0.2
+Lasko,Ecuador,0.2
+Lasko,Somalia,0.2
+Lasko,Togo,0.0
+Lotus,China,38.2
+Lotus,Indonesia,9.5
+Lotus,Philippines,8.8
+Lotus,Greece,8.2
+Lotus,France,6.3
+Lotus,Colombia,6.2
+Lotus,Japan,4.3
+Lotus,Germany,3.0
+Lotus,Egypt,2.9
+Lotus,Brazil,2.7
+Lotus,Mali,2.6
+Lotus,Mexico,2.1
+Lotus,Albania,1.7
+Lotus,Bangladesh,1.2
+Lotus,South Korea,0.8
+Lotus,Somalia,0.4
+Lotus,Panama,0.3
+Lotus,Ecuador,0.2
+Lotus,Canada,0.2
+Lotus,Pakistan,0.1
+Lotus,United Kingdom,0.0
+Lotus,Italy,0.0
+Microsoft,China,42.1
+Microsoft,Philippines,24.0
+Microsoft,Colombia,6.6
+Microsoft,South Korea,4.2
+Microsoft,Indonesia,4.1
+Microsoft,France,3.3
+Microsoft,Greece,2.7
+Microsoft,Somalia,2.6
+Microsoft,Japan,2.0
+Microsoft,Brazil,1.6
+Microsoft,Mexico,1.2
+Microsoft,Germany,1.2
+Microsoft,Panama,1.0
+Microsoft,Ecuador,0.8
+Microsoft,Canada,0.8
+Microsoft,Chile,0.5
+Microsoft,Bangladesh,0.4
+Microsoft,Mali,0.4
+Microsoft,Pakistan,0.2
+Microsoft,United Kingdom,0.0
+Microsoft,Albania,0.0
+Microsoft,Egypt,0.0
+Microsoft,Bahamas,0.0
+Panasonic,China,43.0
+Panasonic,Philippines,13.4
+Panasonic,Brazil,12.7
+Panasonic,France,6.0
+Panasonic,Indonesia,5.0
+Panasonic,Colombia,4.4
+Panasonic,Mexico,3.7
+Panasonic,Japan,2.9
+Panasonic,Greece,2.3
+Panasonic,Egypt,1.9
+Panasonic,Canada,1.7
+Panasonic,Ecuador,0.7
+Panasonic,Bangladesh,0.6
+Panasonic,United Kingdom,0.5
+Panasonic,Italy,0.4
+Panasonic,Jamaica,0.3
+Panasonic,Pakistan,0.2
+Panasonic,Germany,0.2
+Panasonic,Albania,0.2
+Panasonic,Somalia,0.0
+Panasonic,South Korea,0.0
+Panasonic,Panama,0.0
+Peterbuilt,China,37.2
+Peterbuilt,Philippines,19.9
+Peterbuilt,Indonesia,6.6
+Peterbuilt,Japan,5.8
+Peterbuilt,Colombia,5.2
+Peterbuilt,Brazil,5.0
+Peterbuilt,Mexico,4.7
+Peterbuilt,France,4.3
+Peterbuilt,Bangladesh,2.9
+Peterbuilt,Egypt,1.5
+Peterbuilt,Ecuador,1.2
+Peterbuilt,Germany,1.1
+Peterbuilt,Greece,1.0
+Peterbuilt,United Kingdom,1.0
+Peterbuilt,Albania,0.9
+Peterbuilt,Mali,0.6
+Peterbuilt,Cameroon,0.3
+Peterbuilt,Pakistan,0.3
+Peterbuilt,Canada,0.2
+Peterbuilt,Somalia,0.1
+Peterbuilt,Chile,0.1
+Peterbuilt,Panama,0.1
+Peterbuilt,Australia,0.0
+Peterbuilt,South Korea,0.0
+Reliance Digital,China,47.9
+Reliance Digital,Philippines,19.5
+Reliance Digital,Greece,5.4
+Reliance Digital,Brazil,5.2
+Reliance Digital,Indonesia,4.9
+Reliance Digital,France,4.1
+Reliance Digital,Japan,2.5
+Reliance Digital,Germany,2.3
+Reliance Digital,Colombia,2.1
+Reliance Digital,Bangladesh,1.6
+Reliance Digital,Albania,1.5
+Reliance Digital,South Korea,1.1
+Reliance Digital,Pakistan,0.6
+Reliance Digital,Ecuador,0.5
+Reliance Digital,Mexico,0.4
+Reliance Digital,Cameroon,0.3
+Reliance Digital,Egypt,0.1
+Reliance Digital,Mali,0.0
+Reliance Digital,United Kingdom,0.0
+Reliance Digital,Somalia,0.0
+Reliance Digital,Australia,0.0
+Reliance Digital,Canada,0.0
+Sainsbury's,China,45.4
+Sainsbury's,Philippines,14.6
+Sainsbury's,Japan,7.1
+Sainsbury's,Brazil,6.3
+Sainsbury's,France,5.2
+Sainsbury's,Indonesia,4.9
+Sainsbury's,Panama,3.0
+Sainsbury's,Mexico,3.0
+Sainsbury's,Pakistan,2.9
+Sainsbury's,Colombia,2.2
+Sainsbury's,Bangladesh,1.2
+Sainsbury's,Greece,1.1
+Sainsbury's,Canada,0.9
+Sainsbury's,Germany,0.9
+Sainsbury's,Egypt,0.6
+Sainsbury's,Chile,0.5
+Sainsbury's,South Korea,0.2
+Sainsbury's,Ecuador,0.0
+Sainsbury's,United Kingdom,0.0
+Samsung,China,53.9
+Samsung,Philippines,13.4
+Samsung,Indonesia,6.5
+Samsung,Colombia,6.1
+Samsung,Japan,4.5
+Samsung,Greece,4.0
+Samsung,France,3.3
+Samsung,Brazil,1.9
+Samsung,Ecuador,1.6
+Samsung,United Kingdom,1.1
+Samsung,Bangladesh,1.0
+Samsung,Egypt,1.0
+Samsung,Mexico,0.6
+Samsung,Germany,0.5
+Samsung,Somalia,0.2
+Samsung,South Korea,0.2
+Samsung,Canada,0.1
+Samsung,Pakistan,0.0
+Samsung,Australia,0.0
+Samsung,Chile,0.0
+Samsung,Italy,0.0
+Sony,China,46.1
+Sony,Philippines,16.8
+Sony,Indonesia,7.0
+Sony,Brazil,6.6
+Sony,France,5.7
+Sony,Colombia,4.2
+Sony,Japan,2.2
+Sony,Mexico,2.0
+Sony,United Kingdom,2.0
+Sony,South Korea,1.5
+Sony,Egypt,1.3
+Sony,Greece,1.3
+Sony,Bangladesh,0.7
+Sony,Ecuador,0.6
+Sony,Canada,0.6
+Sony,Germany,0.5
+Sony,Chile,0.4
+Sony,Albania,0.3
+Sony,Pakistan,0.1
+Sony,Mali,0.0
+Sony,Australia,0.0
+Sony,Togo,0.0
+Sony,Jamaica,0.0
+Sony,Panama,0.0
+SourceForge,China,44.0
+SourceForge,Philippines,12.8
+SourceForge,France,8.5
+SourceForge,Greece,6.3
+SourceForge,Brazil,6.3
+SourceForge,Indonesia,4.8
+SourceForge,Mexico,2.7
+SourceForge,Pakistan,2.4
+SourceForge,Ecuador,2.2
+SourceForge,Colombia,2.0
+SourceForge,Somalia,1.8
+SourceForge,Albania,1.4
+SourceForge,Egypt,0.9
+SourceForge,Canada,0.9
+SourceForge,South Korea,0.9
+SourceForge,Japan,0.8
+SourceForge,Germany,0.4
+SourceForge,Italy,0.3
+SourceForge,Mali,0.2
+SourceForge,United Kingdom,0.2
+SourceForge,Bangladesh,0.2
+SourceForge,Jamaica,0.0
+Staples,China,48.3
+Staples,Philippines,9.1
+Staples,France,9.0
+Staples,Albania,6.1
+Staples,Indonesia,5.2
+Staples,Japan,5.0
+Staples,Brazil,3.7
+Staples,South Korea,3.1
+Staples,Greece,2.3
+Staples,Mexico,2.1
+Staples,Colombia,1.8
+Staples,Egypt,1.3
+Staples,Ecuador,0.8
+Staples,Panama,0.7
+Staples,United Kingdom,0.5
+Staples,Chile,0.3
+Staples,Mali,0.3
+Staples,Bangladesh,0.2
+Staples,Canada,0.1
+Staples,Germany,0.1
+Staples,Cameroon,0.1
+Staples,Jamaica,0.1
+Staples,Pakistan,0.0
+Target,China,39.6
+Target,Philippines,15.0
+Target,Indonesia,11.8
+Target,France,6.3
+Target,Brazil,6.0
+Target,Albania,4.7
+Target,Mexico,4.4
+Target,Japan,3.3
+Target,South Korea,2.3
+Target,Greece,1.2
+Target,Bangladesh,1.1
+Target,Pakistan,1.1
+Target,United Kingdom,0.9
+Target,Colombia,0.7
+Target,Ecuador,0.5
+Target,Canada,0.5
+Target,Panama,0.2
+Target,Somalia,0.2
+Target,Egypt,0.1
+Target,Chile,0.0
+Target,Togo,0.0
+Tesco,China,47.4
+Tesco,Philippines,14.9
+Tesco,Japan,7.4
+Tesco,Indonesia,7.1
+Tesco,Brazil,4.5
+Tesco,France,3.8
+Tesco,Greece,3.4
+Tesco,Colombia,3.3
+Tesco,Albania,2.0
+Tesco,Egypt,1.9
+Tesco,South Korea,1.6
+Tesco,Pakistan,1.3
+Tesco,Somalia,0.8
+Tesco,Bangladesh,0.3
+Tesco,Ecuador,0.1
+Tesco,Germany,0.1
+Tesco,Canada,0.0
+Tesco,Mexico,0.0
+Tesco,United Kingdom,0.0
+The Brick.eu.uk,China,38.0
+The Brick.eu.uk,Mexico,16.2
+The Brick.eu.uk,Philippines,13.2
+The Brick.eu.uk,France,10.6
+The Brick.eu.uk,Indonesia,4.9
+The Brick.eu.uk,Mali,3.9
+The Brick.eu.uk,Brazil,2.8
+The Brick.eu.uk,Japan,2.7
+The Brick.eu.uk,Greece,1.7
+The Brick.eu.uk,Egypt,1.1
+The Brick.eu.uk,Colombia,1.1
+The Brick.eu.uk,Pakistan,1.0
+The Brick.eu.uk,Bangladesh,0.9
+The Brick.eu.uk,Australia,0.5
+The Brick.eu.uk,United Kingdom,0.4
+The Brick.eu.uk,Germany,0.4
+The Brick.eu.uk,South Korea,0.3
+The Brick.eu.uk,Ecuador,0.1
+The Brick.eu.uk,Albania,0.1
+The Brick.eu.uk,Canada,0.1
+The Brick.eu.uk,Togo,0.0
+The Brick.eu.uk,Panama,0.0
+The Brick.eu.uk,Bahamas,0.0
+The Source,China,42.4
+The Source,Philippines,16.9
+The Source,Brazil,9.6
+The Source,Indonesia,7.7
+The Source,Colombia,3.9
+The Source,Greece,3.4
+The Source,Japan,3.1
+The Source,France,2.5
+The Source,Canada,1.6
+The Source,Germany,1.6
+The Source,Albania,1.4
+The Source,Mexico,1.2
+The Source,Bangladesh,1.0
+The Source,Mali,0.9
+The Source,Somalia,0.7
+The Source,Ecuador,0.7
+The Source,South Korea,0.5
+The Source,Egypt,0.4
+The Source,United Kingdom,0.1
+The Source,Panama,0.1
+The Source,Australia,0.1
+The Source,Chile,0.1
+The Source,Cameroon,0.0
+Viveks,China,43.1
+Viveks,Philippines,22.7
+Viveks,Greece,5.1
+Viveks,Colombia,4.5
+Viveks,Indonesia,4.2
+Viveks,Germany,4.1
+Viveks,Japan,3.8
+Viveks,France,3.1
+Viveks,Bangladesh,2.6
+Viveks,Mexico,1.8
+Viveks,Brazil,1.0
+Viveks,United Kingdom,0.7
+Viveks,Albania,0.7
+Viveks,Chile,0.6
+Viveks,South Korea,0.6
+Viveks,Ecuador,0.5
+Viveks,Somalia,0.4
+Viveks,Panama,0.4
+Viveks,Togo,0.2
+Viveks,Egypt,0.2
+Viveks,Canada,0.0
+Viveks,Pakistan,0.0
+Viveks,Mali,0.0
+Walmart,China,54.1
+Walmart,Philippines,8.7
+Walmart,Indonesia,8.6
+Walmart,Japan,6.4
+Walmart,France,4.4
+Walmart,Brazil,3.9
+Walmart,Egypt,3.0
+Walmart,Albania,2.6
+Walmart,Greece,2.5
+Walmart,Colombia,1.8
+Walmart,Somalia,0.9
+Walmart,South Korea,0.7
+Walmart,Ecuador,0.7
+Walmart,Pakistan,0.7
+Walmart,Canada,0.5
+Walmart,Mexico,0.4
+Walmart,Bangladesh,0.3
+Walmart,Cameroon,0.0
+Waterstones,China,48.3
+Waterstones,Indonesia,11.8
+Waterstones,Philippines,9.0
+Waterstones,Brazil,4.5
+Waterstones,Colombia,3.3
+Waterstones,Greece,3.1
+Waterstones,Germany,2.9
+Waterstones,Mexico,2.7
+Waterstones,Japan,2.3
+Waterstones,Ecuador,2.2
+Waterstones,Egypt,1.9
+Waterstones,France,1.8
+Waterstones,Mali,1.7
+Waterstones,Canada,1.5
+Waterstones,Pakistan,1.0
+Waterstones,Panama,1.0
+Waterstones,Bangladesh,0.5
+Waterstones,United Kingdom,0.4
+Waterstones,South Korea,0.2
+Waterstones,Albania,0.0
+Wayfair,China,38.0
+Wayfair,Indonesia,20.8
+Wayfair,Philippines,11.9
+Wayfair,Japan,6.0
+Wayfair,United Kingdom,3.6
+Wayfair,Mexico,3.6
+Wayfair,France,3.3
+Wayfair,Colombia,3.1
+Wayfair,Brazil,2.5
+Wayfair,Greece,2.4
+Wayfair,Germany,2.2
+Wayfair,Ecuador,1.2
+Wayfair,Somalia,0.4
+Wayfair,Egypt,0.3
+Wayfair,Chile,0.2
+Wayfair,Jamaica,0.1
+Wayfair,Albania,0.1
+Wayfair,Pakistan,0.1
+Wayfair,Togo,0.1
+Wayfair,Panama,0.0
+Wayfair,Canada,0.0
+Wayfair,Bangladesh,0.0
+cloudfare,China,44.4
+cloudfare,Indonesia,13.6
+cloudfare,Philippines,12.8
+cloudfare,Japan,7.9
+cloudfare,France,4.4
+cloudfare,Brazil,4.3
+cloudfare,Colombia,3.7
+cloudfare,South Korea,1.4
+cloudfare,Somalia,1.3
+cloudfare,Mexico,1.2
+cloudfare,Egypt,0.9
+cloudfare,Greece,0.9
+cloudfare,Cameroon,0.7
+cloudfare,Albania,0.5
+cloudfare,Bangladesh,0.4
+cloudfare,Ecuador,0.4
+cloudfare,United Kingdom,0.4
+cloudfare,Togo,0.3
+cloudfare,Germany,0.3
+cloudfare,Canada,0.2
+cloudfare,Pakistan,0.1
+cloudfare,Chile,0.0
+eZone.eu.uk,China,37.8
+eZone.eu.uk,Philippines,15.6
+eZone.eu.uk,Indonesia,9.9
+eZone.eu.uk,Mexico,6.8
+eZone.eu.uk,France,5.5
+eZone.eu.uk,Brazil,3.8
+eZone.eu.uk,Bangladesh,3.5
+eZone.eu.uk,Canada,2.8
+eZone.eu.uk,Colombia,2.8
+eZone.eu.uk,Somalia,2.2
+eZone.eu.uk,Japan,2.1
+eZone.eu.uk,Greece,1.8
+eZone.eu.uk,Chile,1.7
+eZone.eu.uk,Ecuador,1.3
+eZone.eu.uk,South Korea,0.5
+eZone.eu.uk,Pakistan,0.5
+eZone.eu.uk,Panama,0.4
+eZone.eu.uk,Jamaica,0.3
+eZone.eu.uk,Germany,0.3
+eZone.eu.uk,Albania,0.3
+eZone.eu.uk,Italy,0.1
+eZone.eu.uk,Egypt,0.0
+eZone.eu.uk,Togo,0.0
+eZone.eu.uk,Cameroon,0.0
+netlog,China,43.4
+netlog,Philippines,14.3
+netlog,Indonesia,10.0
+netlog,Colombia,6.2
+netlog,France,5.7
+netlog,Japan,3.0
+netlog,Mexico,2.6
+netlog,Mali,2.6
+netlog,Ecuador,2.3
+netlog,South Korea,2.3
+netlog,Canada,2.2
+netlog,Egypt,2.1
+netlog,Brazil,1.7
+netlog,Greece,1.0
+netlog,Panama,0.3
+netlog,Albania,0.2
+netlog,Bangladesh,0.1
+netlog,United Kingdom,0.1
+netlog,Pakistan,0.0
+netlog,Somalia,0.0
+pcworld,China,44.9
+pcworld,Philippines,13.5
+pcworld,Indonesia,8.5
+pcworld,Brazil,8.1
+pcworld,Japan,6.4
+pcworld,France,2.8
+pcworld,Germany,2.0
+pcworld,Egypt,2.0
+pcworld,Colombia,1.6
+pcworld,Greece,1.5
+pcworld,Albania,1.4
+pcworld,South Korea,1.4
+pcworld,Ecuador,1.3
+pcworld,United Kingdom,1.1
+pcworld,Chile,1.0
+pcworld,Bangladesh,0.9
+pcworld,Canada,0.5
+pcworld,Mexico,0.4
+pcworld,Cameroon,0.3
+pcworld,Panama,0.3
+pcworld,Togo,0.0
+pcworld,Bahamas,0.0

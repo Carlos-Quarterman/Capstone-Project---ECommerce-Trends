@@ -1,0 +1,148 @@
+country,hour,avg
+Albania,,475.24
+Albania,0,159.97
+Albania,1,853.79
+Albania,2,360.95
+Albania,3,614.64
+Albania,4,912.73
+Albania,5,130.06
+Albania,6,108.4
+Albania,7,185.38
+Albania,8,859.55
+Albania,9,1261.53
+Albania,10,363.33
+Albania,11,3813.21
+Albania,12,847.13
+Albania,13,842.48
+Albania,14,785.98
+Albania,15,740.83
+Albania,16,69.91
+Albania,17,1315.21
+Albania,18,317.29
+Albania,19,138.83
+Albania,20,270.28
+Albania,21,782.99
+Albania,22,113.4
+Albania,23,474.48
+France,,372.26
+France,0,620.63
+France,1,302.29
+France,2,597.98
+France,3,1012.14
+France,4,360.23
+France,5,701.41
+France,6,388.56
+France,7,475.91
+France,8,405.14
+France,9,547.88
+France,10,533.78
+France,11,1004.07
+France,12,609.01
+France,13,1815.02
+France,14,232.14
+France,15,774.59
+France,16,471.75
+France,17,387.06
+France,18,286.8
+France,19,530.03
+France,20,544.21
+France,21,1327.28
+France,22,1132.96
+France,23,882.81
+Germany,,138.23
+Germany,0,299.34
+Germany,1,264.1
+Germany,2,182.33
+Germany,3,536.34
+Germany,4,106.65
+Germany,5,317.13
+Germany,6,432.73
+Germany,7,600.38
+Germany,8,477.73
+Germany,9,429.17
+Germany,10,693.24
+Germany,11,320.82
+Germany,12,1671.75
+Germany,13,3495.09
+Germany,14,649.28
+Germany,15,1223.94
+Germany,16,482.27
+Germany,17,531.99
+Germany,18,773.67
+Germany,19,299.23
+Germany,20,407.08
+Germany,21,72.29
+Germany,22,989.45
+Germany,23,249.38
+Greece,,482.54
+Greece,0,865.21
+Greece,1,1524.78
+Greece,2,1454.83
+Greece,3,294.26
+Greece,4,715.14
+Greece,5,437.6
+Greece,6,250.75
+Greece,7,503.25
+Greece,8,289.35
+Greece,9,282.22
+Greece,10,1018.3
+Greece,11,350.25
+Greece,12,614.36
+Greece,13,984.97
+Greece,14,987.27
+Greece,15,280.04
+Greece,16,329.76
+Greece,17,2191.66
+Greece,18,553.17
+Greece,19,947.77
+Greece,20,654.1
+Greece,21,377.85
+Greece,22,1351.69
+Greece,23,578.01
+Italy,0,73.85
+Italy,1,402.37
+Italy,2,991.48
+Italy,3,50.7
+Italy,4,100.57
+Italy,5,516.61
+Italy,6,71.47
+Italy,7,172.81
+Italy,8,121.63
+Italy,9,97.59
+Italy,10,65.31
+Italy,11,31.47
+Italy,12,71.71
+Italy,14,1.0
+Italy,15,50.85
+Italy,16,87.56
+Italy,18,67.32
+Italy,19,0.0
+Italy,20,1605.76
+Italy,21,52.26
+Italy,22,1.4
+Italy,23,38.75
+United Kingdom,,95.2
+United Kingdom,0,297.91
+United Kingdom,1,527.93
+United Kingdom,2,189.46
+United Kingdom,3,1259.82
+United Kingdom,4,152.08
+United Kingdom,5,872.5
+United Kingdom,6,1553.68
+United Kingdom,7,598.16
+United Kingdom,8,372.88
+United Kingdom,9,113.35
+United Kingdom,10,1261.26
+United Kingdom,11,818.41
+United Kingdom,12,295.23
+United Kingdom,13,887.16
+United Kingdom,14,823.13
+United Kingdom,15,368.9
+United Kingdom,16,467.84
+United Kingdom,17,232.04
+United Kingdom,18,805.69
+United Kingdom,19,210.25
+United Kingdom,20,112.92
+United Kingdom,21,10994.97
+United Kingdom,22,309.94
+United Kingdom,23,151.73

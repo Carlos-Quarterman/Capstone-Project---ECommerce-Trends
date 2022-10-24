@@ -1,0 +1,171 @@
+ecommerce_website_name,product_category,percent
+ASDA,Clothes,27.5
+ASDA,Food,19.9
+ASDA,Electronics,19.8
+ASDA,Tools,19.8
+ASDA,Books,12.9
+Amazon,Clothes,29.1
+Amazon,Tools,19.9
+Amazon,Electronics,19.8
+Amazon,Food,18.3
+Amazon,Books,12.9
+Apple,Clothes,27.5
+Apple,Tools,21.1
+Apple,Food,19.9
+Apple,Electronics,19.3
+Apple,Books,12.1
+Argos,Clothes,27.9
+Argos,Electronics,22.0
+Argos,Food,19.6
+Argos,Tools,17.7
+Argos,Books,12.8
+BestBuy,Clothes,28.3
+BestBuy,Electronics,21.5
+BestBuy,Tools,18.9
+BestBuy,Food,18.3
+BestBuy,Books,13.1
+Brainbridge,Clothes,27.8
+Brainbridge,Electronics,21.0
+Brainbridge,Tools,19.7
+Brainbridge,Food,18.5
+Brainbridge,Books,12.9
+Canada Computers.cn,Clothes,28.1
+Canada Computers.cn,Tools,20.1
+Canada Computers.cn,Electronics,20.0
+Canada Computers.cn,Food,18.4
+Canada Computers.cn,Books,13.4
+DesDev,Clothes,28.1
+DesDev,Electronics,21.0
+DesDev,Tools,19.2
+DesDev,Food,18.3
+DesDev,Books,13.4
+Ebay,Clothes,27.8
+Ebay,Food,20.1
+Ebay,Tools,19.9
+Ebay,Electronics,19.2
+Ebay,Books,13.0
+Hacker Typer.,Clothes,27.7
+Hacker Typer.,Tools,20.4
+Hacker Typer.,Electronics,20.1
+Hacker Typer.,Food,19.7
+Hacker Typer.,Books,12.1
+IndiaTech.in,Clothes,28.7
+IndiaTech.in,Tools,19.4
+IndiaTech.in,Food,19.4
+IndiaTech.in,Electronics,19.4
+IndiaTech.in,Books,13.2
+Lasko,Clothes,29.1
+Lasko,Electronics,20.7
+Lasko,Food,19.6
+Lasko,Tools,18.3
+Lasko,Books,12.3
+Lotus,Clothes,25.7
+Lotus,Electronics,20.5
+Lotus,Food,20.3
+Lotus,Tools,19.4
+Lotus,Books,14.2
+Microsoft,Clothes,27.7
+Microsoft,Food,20.5
+Microsoft,Electronics,19.8
+Microsoft,Tools,19.1
+Microsoft,Books,13.0
+Panasonic,Clothes,27.9
+Panasonic,Tools,19.9
+Panasonic,Electronics,19.8
+Panasonic,Food,19.5
+Panasonic,Books,13.0
+Peterbuilt,Clothes,27.6
+Peterbuilt,Tools,20.8
+Peterbuilt,Food,20.0
+Peterbuilt,Electronics,18.6
+Peterbuilt,Books,12.9
+Reliance Digital,Clothes,29.9
+Reliance Digital,Electronics,20.6
+Reliance Digital,Tools,19.2
+Reliance Digital,Food,17.8
+Reliance Digital,Books,12.5
+Sainsbury's,Clothes,27.0
+Sainsbury's,Electronics,21.5
+Sainsbury's,Tools,20.7
+Sainsbury's,Food,18.5
+Sainsbury's,Books,12.3
+Samsung,Clothes,28.3
+Samsung,Electronics,20.9
+Samsung,Tools,19.3
+Samsung,Food,18.6
+Samsung,Books,12.9
+Sony,Clothes,28.2
+Sony,Electronics,21.1
+Sony,Food,19.2
+Sony,Tools,18.8
+Sony,Books,12.7
+SourceForge,Clothes,26.8
+SourceForge,Food,21.1
+SourceForge,Electronics,20.6
+SourceForge,Tools,18.4
+SourceForge,Books,13.1
+Staples,Clothes,27.8
+Staples,Food,20.4
+Staples,Tools,19.9
+Staples,Electronics,18.9
+Staples,Books,13.0
+Target,Clothes,28.6
+Target,Electronics,20.7
+Target,Tools,19.5
+Target,Food,19.1
+Target,Books,12.0
+Tesco,Clothes,28.2
+Tesco,Tools,20.4
+Tesco,Electronics,19.8
+Tesco,Food,18.8
+Tesco,Books,12.8
+The Brick.eu.uk,Clothes,30.0
+The Brick.eu.uk,Electronics,20.5
+The Brick.eu.uk,Food,19.3
+The Brick.eu.uk,Tools,18.6
+The Brick.eu.uk,Books,11.6
+The Source,Clothes,26.1
+The Source,Food,21.9
+The Source,Tools,19.7
+The Source,Electronics,19.4
+The Source,Books,12.9
+Viveks,Clothes,26.6
+Viveks,Electronics,23.3
+Viveks,Food,19.6
+Viveks,Tools,17.6
+Viveks,Books,12.9
+Walmart,Clothes,29.0
+Walmart,Electronics,22.2
+Walmart,Tools,19.7
+Walmart,Food,18.2
+Walmart,Books,10.9
+Waterstones,Clothes,28.3
+Waterstones,Electronics,21.3
+Waterstones,Tools,19.6
+Waterstones,Food,17.9
+Waterstones,Books,12.9
+Wayfair,Clothes,30.4
+Wayfair,Tools,19.9
+Wayfair,Food,19.5
+Wayfair,Electronics,19.0
+Wayfair,Books,11.2
+cloudfare,Clothes,30.9
+cloudfare,Electronics,19.6
+cloudfare,Food,19.1
+cloudfare,Tools,17.0
+cloudfare,Books,13.4
+eZone.eu.uk,Clothes,27.7
+eZone.eu.uk,Electronics,21.3
+eZone.eu.uk,Food,19.5
+eZone.eu.uk,Tools,18.3
+eZone.eu.uk,Books,13.2
+netlog,Clothes,27.7
+netlog,Electronics,20.9
+netlog,Food,20.0
+netlog,Tools,19.8
+netlog,Books,11.7
+pcworld,Clothes,27.6
+pcworld,Electronics,20.7
+pcworld,Tools,20.6
+pcworld,Food,20.5
+pcworld,Books,10.7
